@@ -1,0 +1,39 @@
+.main{
+    position: fixed;
+}
+.second{
+    display: inline;
+}
+.inputbox{
+    width:100px;margin-bottom: 100px;
+    background-color: darkblue;
+    display: inline;
+}
+.shit{
+    background-color: yellow;
+    width: 25%;
+    border: 25px solid white;
+    padding: 25px;
+    margin: 25px;
+
+}
+.shit2{
+    background-color: yellow;
+    width: 25%;
+    border: 25px solid white;
+    padding: 25px;
+    margin: 25px;
+}
+.shit3
+{
+    background-color: yellow;
+    width: 25%;
+    border: 25px solid white;
+    padding: 25px;
+    margin: 25px;
+}
+.main-shit{
+    background-color: rgb(170, 238, 238);
+    position: relative;
+    display: flex;
+}
